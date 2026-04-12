@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Multiple Parson's Problems on One Page
+title: Parson's Practice - Searching Algorithms
 ---
-# Parsons Practice
 
 ## Linear Search
 Re-arrange the blocks below to construct a method that carries out linear search.
