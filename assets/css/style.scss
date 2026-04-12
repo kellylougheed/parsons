@@ -1,7 +1,17 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@400;700&display=swap');
+
 @import "{{ site.theme }}";
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Abril Fatface', serif;
+}
 
 .sortable-code {
   width: 56%;
