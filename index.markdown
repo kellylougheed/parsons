@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Parson's Practice - Searching Algorithms
+title: Parsons Problems: Searching Algorithms
 ---
 
 ## Linear Search
