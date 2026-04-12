@@ -46,3 +46,5 @@ You can use [Codio's graphical Parson's problems generator](https://codio.github
 1.  Change the GitHub repo name in config.yml
 
 1.  Run `bundle exec jekyll serve --baseurl ""` in terminal to ignore the config baseurl
+
+1.  Kill old terminal before starting a new jekyll serve with `pkill -f jekyll` or `killall jekyll`
