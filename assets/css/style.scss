@@ -1,8 +1,6 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@400;700&display=swap');
-
 @import "{{ site.theme }}";
 
 body {
@@ -11,6 +9,21 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Abril Fatface', serif;
+}
+
+button, input[type="button"] {
+  padding: 12px 24px;
+  background-color: #6a3d7a;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover, input[type="button"]:hover {
+  background-color: #4a2555;
 }
 
 .sortable-code {
