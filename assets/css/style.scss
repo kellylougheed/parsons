@@ -1,17 +1,19 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
-
 body {
   font-family: 'Lato', sans-serif;
+  margin: 0 100px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Abril Fatface', serif;
+  color: #333;
+  letter-spacing: 1px;
 }
 
 button, input[type="button"] {
+  font-family: 'Lato', sans-serif;
   padding: 12px 24px;
   background-color: #6a3d7a;
   color: white;
