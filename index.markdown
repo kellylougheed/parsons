@@ -3,5 +3,5 @@ layout: default
 title: Parsons Problems
 ---
 
-[Searching Algorithms](/searching)
+[Searching Algorithms]({{ site.baseurl }}/searching/)
 
