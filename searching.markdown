@@ -8,7 +8,7 @@ permalink: /searching/
 ---
 
 ## Linear Search
-Re-arrange the blocks below to construct a method that carries out linear search.
+Re-arrange the blocks below to construct a method that carries out linear search. Drag each line to its correct level of indentation.
 
 <div id="linearsearch-sortableTrash" class="sortable-code"></div> 
 <div id="linearsearch-sortable" class="sortable-code"></div> 
@@ -53,7 +53,7 @@ Re-arrange the blocks below to construct a method that carries out linear search
 
 
 ## Binary Search
-Construct a method that performs binary search.
+Construct a method that performs binary search. Drag each line to its correct level of indentation.
 
 <div id="binarysearch-sortableTrash" class="sortable-code"></div> 
 <div id="binarysearch-sortable" class="sortable-code"></div> 
