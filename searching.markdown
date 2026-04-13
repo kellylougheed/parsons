@@ -71,11 +71,9 @@ Construct a method that performs binary search. Drag each line to its correct le
     "        int middle = low + (high - low) / 2;\n" +
     "        if (arr[middle] == target) {\n" +
     "            return middle;\n" +
-    "        }\n" +
-    "        if (arr[middle] &lt; target) {\n" +
+    "        } else if (arr[middle] &lt; target) {\n" +
     "            low = middle + 1;\n" +
-    "        }\n" +
-    "        if (arr[middle] &gt; target) {\n" +
+    "        } else {\n" +
     "            high = middle - 1;\n" +
     "        }\n" +
     "    }\n" +
