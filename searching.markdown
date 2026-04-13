@@ -65,8 +65,7 @@ Construct a method that performs binary search. Drag each line to its correct le
 <script type="text/javascript"> 
 (function(){
   var initial = "public static int binarySearch(int arr[], int target) {\n" +
-    "    int low = 0;\n" +
-    "    int high = arr.length - 1;\n" +
+    "    int low = 0, high = arr.length - 1;\n" +
     "    while (low &lt;= high) {\n" +
     "        int middle = low + (high - low) / 2;\n" +
     "        if (arr[middle] == target) {\n" +
